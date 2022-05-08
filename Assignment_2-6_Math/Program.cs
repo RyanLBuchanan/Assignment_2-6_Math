@@ -2,11 +2,11 @@
 
 namespace Assignment_2_6_Math
 {
-    class Program
+    class Math
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Mathematics");
         }
     }
 }
