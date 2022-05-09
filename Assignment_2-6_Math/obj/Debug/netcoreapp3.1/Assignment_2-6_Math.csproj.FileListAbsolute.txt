@@ -1,0 +1,14 @@
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-6_Math\Assignment_2-6_Math\bin\Debug\netcoreapp3.1\Assignment_2-6_Math.exe
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-6_Math\Assignment_2-6_Math\bin\Debug\netcoreapp3.1\Assignment_2-6_Math.deps.json
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-6_Math\Assignment_2-6_Math\bin\Debug\netcoreapp3.1\Assignment_2-6_Math.runtimeconfig.json
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-6_Math\Assignment_2-6_Math\bin\Debug\netcoreapp3.1\Assignment_2-6_Math.runtimeconfig.dev.json
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-6_Math\Assignment_2-6_Math\bin\Debug\netcoreapp3.1\Assignment_2-6_Math.dll
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-6_Math\Assignment_2-6_Math\bin\Debug\netcoreapp3.1\Assignment_2-6_Math.pdb
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-6_Math\Assignment_2-6_Math\obj\Debug\netcoreapp3.1\Assignment_2-6_Math.csproj.AssemblyReference.cache
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-6_Math\Assignment_2-6_Math\obj\Debug\netcoreapp3.1\Assignment_2-6_Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-6_Math\Assignment_2-6_Math\obj\Debug\netcoreapp3.1\Assignment_2-6_Math.AssemblyInfoInputs.cache
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-6_Math\Assignment_2-6_Math\obj\Debug\netcoreapp3.1\Assignment_2-6_Math.AssemblyInfo.cs
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-6_Math\Assignment_2-6_Math\obj\Debug\netcoreapp3.1\Assignment_2-6_Math.csproj.CoreCompileInputs.cache
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-6_Math\Assignment_2-6_Math\obj\Debug\netcoreapp3.1\Assignment_2-6_Math.dll
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-6_Math\Assignment_2-6_Math\obj\Debug\netcoreapp3.1\Assignment_2-6_Math.pdb
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-6_Math\Assignment_2-6_Math\obj\Debug\netcoreapp3.1\Assignment_2-6_Math.genruntimeconfig.cache
